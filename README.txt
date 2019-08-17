@@ -1,3 +1,21 @@
+1 Make a change in the code in atom app (change images and html files (.html), dont touch assets)
+1.2 Save file with command s, then blue dot at top disappears
+2 To see changes on the computer:
+
+file:///Users/johannaroodt/Downloads/johannatilly.github.io/index.html
+
+3 Open github desktop app (cat) to review changes in atom that are automatically shown
+
+4 If everything is fine, tick file that you've changed, write summary of what done and submit
+
+5 Check changes https://github.com/johannatilly/johannatilly.github.io
+
+(might take some time)
+
+6 Changes appear on website johannatilly.github.io
+
+Command z to undo things! 
+
 Telephasic by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
