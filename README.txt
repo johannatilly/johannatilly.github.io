@@ -15,6 +15,7 @@ file:///Users/johannaroodt/Downloads/johannatilly.github.io/index.html
 6 Changes appear on website johannatilly.github.io
 
 Command z to undo things!
+Optimize pictures for web! 
 
 Telephasic by HTML5 UP
 html5up.net | @ajlkn
